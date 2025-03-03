@@ -72,8 +72,11 @@ class tools:
                 ctypes.windll.gdi32.SetPixel(hdc, X, Y, COLOR)
                 ctypes.windll.user32.ReleaseDC(0, hdc)
 
-    class network:
+
+    class Network:
+        "W.I.P"
         pass
+
 
     class info:
         class web:
