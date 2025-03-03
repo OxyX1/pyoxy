@@ -8,6 +8,13 @@ import pyoxy
 def triggered_function():
     pyoxy.tools.console.write('this function was triggered by a sensor function!')
 
+```
+
+import pyoxy
+
+def triggered_function():
+    pyoxy.tools.console.write('this function was triggered by a sensor function!')
+
 pyoxy.tools.console.write('hello, world!') #this is how you write hello, world!
 pyoxy.tools.console.read('input: ') # how to use inputs
 pyoxy.tools.system.edit.move('path/to/your/file', 'path/to/your/destination') #how to move files
@@ -19,3 +26,5 @@ pyoxy.tools.override.screen.gdi32_force_pixel_color_change(X=0, Y=0, COLOR=0x000
 pyoxy.tools.info.web.get_chrome_data() # this will get your chrome account information : I AM NOT RESPONSIBLE FOR ANY MALICIOUS USES
 pyoxy.tools.info.web.get_chrome_history() # this will get your chrome history : I AM NOT RESPONSIBLE FOR ANY MALICIOUS USES
 # pyoxy.tools.Network() # this class is still a work in progress.
+
+```
