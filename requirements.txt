@@ -1,8 +1,4 @@
-sys
-os
-shutil
-subprocess
-ctypes
 pyautogui
-bs4
 requests
+beautifulsoup4
+scapy
