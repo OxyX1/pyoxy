@@ -4,3 +4,5 @@ shutil
 subprocess
 ctypes
 pyautogui
+bs4
+requests
