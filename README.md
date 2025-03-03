@@ -3,12 +3,6 @@ a python module made by oxyus
 
 an example of use:
 
-``` pyoxy.tools.console.write('hello, world!') ``` used to print text
-``` pyoxy.tools.console.read('input: ') ```
-``` pyoxy.tools.system.edit.move('path/to/your/file', 'path/to/your/destination') ```
-``` pyoxy.tools.system.control.mouse(x=100, y=100) ```
-``` pyoxy.tools.system.control.keyboard('hello, world!')  ```
-
 ```
 
 import pyoxy
