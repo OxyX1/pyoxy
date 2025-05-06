@@ -1,1 +1,1 @@
-pyopencv
+pyinstaller
