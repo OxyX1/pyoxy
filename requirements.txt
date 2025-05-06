@@ -1,4 +1,1 @@
-pyautogui
-requests
-beautifulsoup4
-scapy
+pyopencv
